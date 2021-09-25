@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1;
+  }
+  
+  textarea {
+    background: transparent;
+    color: transparent;
+    border: none;
+    resize: none;
+    color: #000000;
+    border-left: 1px solid black;
+    padding: 10px;
+  }
+  
+  .jumbotron {
+    text-align: center;
+    background-color: transparent;
+    color: black;
+    border-radius: 0;
+    border-bottom: 10px solid black;
+  }
+  
+  .description{
+    white-space: pre-wrap;
+  }
+  
+  .container {
+    margin-bottom: 40px;
+  }
+  
+  .time-block{
+    align-self: center;
+    height: 100%;
+  }
+  
+  .row {
+    white-space: pre-wrap;
+    height: 80px;
+    border-top: 1px solid white;;
+  }
+  
+  .hour {
+    background-color: #dbdbef;
+    color: #000000;
+    border-top: 1px dashed #000000;
+  }
+  
+  .past {
+    background-color: #d3d3d3;
+    color: #000;
+  }
+  
+  .present {
+    background-color: #fff700;
+    color: #000;
+  }
+  
+  .future {
+    background-color: #005fc4;
+    color: #000;
+  }
+  
+  .save-btn {
+    border: 0;
+    border-left: 1px solid black;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #d5063a;
+    color: white;
+  }
+  
+  .save-btn:focus {
+    outline: none;
+  }
+  
+  .save-btn span:hover {
+    font-size: 20px;
+    color: #000;
+    transition: all .3s ease-in-out;
+  }
