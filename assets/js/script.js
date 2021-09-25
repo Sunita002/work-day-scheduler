@@ -31,7 +31,7 @@ var addTask = function(taskTime, taskText) {
     $("#hr-" + taskTime).find(".time-block").append(taskItem)
 }
 
-var Tasks = function() {
+var saveTasks = function() {
     localStorage.setItem("tasks", JSON.stringify(tasks));
 }
 
