@@ -1,6 +1,6 @@
 var tasks = [];
 
-var loadTasks = function() {
+var Tasks = function() {
     tasks = JSON.parse(localStorage.getItem("tasks"));
 
     if (!tasks) {
