@@ -9,8 +9,8 @@ I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 
 ## Acceptance
-Present time is updating (in minutes)
-Tasks are added to the schedule by clicking in the scheduler block
-User's tasks saved in local storage when save button clicked
-Scheduling blocks are broken out by color according to past, present and future
-Button added to clear all tasks, allowing users to refresh and begin adding new tasks once more
+<li> Present time is updating (in minutes)</li>
+<li>Tasks are added to the schedule by clicking in the scheduler block</li>
+<li>User's tasks saved in local storage when save button clicked</li>
+<li>Scheduling blocks are broken out by color according to past, present and future</li>
+<li>Button added to clear all tasks, allowing users to refresh and begin adding new tasks once more</li>
