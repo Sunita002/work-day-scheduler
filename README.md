@@ -14,3 +14,6 @@ SO THAT I can manage my time effectively
 <li>User's tasks saved in local storage when save button clicked</li>
 <li>Scheduling blocks are broken out by color according to past, present and future</li>
 <li>Button added to clear all tasks, allowing users to refresh and begin adding new tasks once more</li>
+
+## Launch Application
+![screenshot-work-day-scheduler](https://user-images.githubusercontent.com/87583026/134758738-f1fd57ff-d560-4b57-bae4-25beddbbdd90.png)
