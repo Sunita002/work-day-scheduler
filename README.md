@@ -17,3 +17,7 @@ SO THAT I can manage my time effectively
 
 ## Launch Application
 ![screenshot-work-day-scheduler](https://user-images.githubusercontent.com/87583026/134758738-f1fd57ff-d560-4b57-bae4-25beddbbdd90.png)
+
+# Deployment of Application
+<li>https://sunita002.github.io/work-day-scheduler/</li>
+<li>https://github.com/Sunita002/work-day-scheduler</li>
